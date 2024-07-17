@@ -1,6 +1,6 @@
 -👋 Hi, I’m Favour Ndukwe.
 
--👀 I’m a data analyst, proficient in using data analysis tools such as Microsoft Excel, PowerBi, Structured query language(SQL) as well as python.
+-👀 I’m a data analyst, proficient in using data analysis tools such as Microsoft Excel, PowerBi, Structured query language(SQL) and python.
 
 -🌱 I’m currently learning python visualization.
 
