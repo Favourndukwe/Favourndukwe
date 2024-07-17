@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Favour Ndukwe
+- 👀 I’m a data analyst who is passionate about helping businesses make data-driven decision.
+- 🌱 I’m currently learning python visualization
+- 💞️ I’m looking to collaborate on data analysis projects, volunteer and otherwise
+- 📫 Lets connect on LinkedIn
